@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">divulgaRegistros</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label1">Em espera: </string>
+    <string name="label2">Atual: </string>
+    <string name="espera">0</string>
+    <string name="atual">200</string>
+</resources>

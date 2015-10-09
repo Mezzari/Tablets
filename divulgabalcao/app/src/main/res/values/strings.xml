@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">divulgabalcao</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="espera">Em espera: </string>
+    <string name="ultimo">Ultimo chamado: </string>
+    <string name="cespera">0</string>
+    <string name="ctotal">100</string>
+    <string name="pespera">0</string>
+    <string name="ptotal">0</string>
+</resources>
